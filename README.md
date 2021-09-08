@@ -1,1 +1,1 @@
-# Consume_Wheather_API_in_JQuery
+# Consume_Wheather_API_using_JQuery
